@@ -59,8 +59,8 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/ClearWayDev/clearway_flutter">ClearWay</a></td>
-      <td>An accessibility-focused mobile application designed to assist visually impaired users in navigating digital interfaces independently. It leverages native hardware (camera, microphone) and integrates voice assistance and live video call support using WebRTC for real-time guidance.</td>
-      <td>Flutter, Firebase, Node.js, Riverpod, WebRTC</td>
+      <td>A mobile application designed to empower visually impaired individuals by providing real-time navigation assistance through voice guidance, live video calling, and AI-supported contextual prompts. The app combines device-native accessibility features with <b>Gemini AI</b> for intelligent interpretation of surroundings, enhancing autonomous navigation in both digital and physical environments.</td>
+      <td>Flutter, Firebase, Node.js, Riverpod, WebRTC, Gemini AI </td>
     </tr>
     <tr>
       <td><a href="https://github.com/VimukthiMK/EliteEstates">EliteEstates</a></td>
