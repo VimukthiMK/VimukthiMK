@@ -21,7 +21,6 @@
 <p align="center">💼 1 year of industry experience as an Associate Software Engineer and Intern at ICIEOS (Pvt) Ltd.</p>
 <p align="center">👨‍💻 Passionate about full-stack development and building impactful software solutions.</p>
 <p align="center">📚 Skilled in Java, JavaScript, Spring Boot, React.js, Node.js, Flutter, and more.</p>
-<p align="center">🚀 Strong leadership, communication, and time management skills.</p>
 
 ---
 
@@ -62,6 +61,12 @@
       <td>A mobile application designed to empower visually impaired individuals by providing real-time navigation assistance through voice guidance, live video calling, and AI-supported contextual prompts. The app combines device-native accessibility features with <b>Gemini AI</b> for intelligent interpretation of surroundings, enhancing autonomous navigation in both digital and physical environments.</td>
       <td>Flutter, Firebase, Node.js, Riverpod, WebRTC, Gemini AI </td>
     </tr>
+      <td><a href="#">Desert Shooter</a></td>
+      <td>
+        A stylized FPS combat game set in an Egyptian desert, built with Unreal Engine. Progress through levels by eliminating increasingly difficult enemies, enhanced by curated assets and smooth animations.<br>
+      </td>
+      <td>Unreal Engine 4.23.1, Stylized Egypt Pack, Animation Starter Pack, FPS Weapon Bundle</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/VimukthiMK/EliteEstates">EliteEstates</a></td>
       <td>A full-stack real estate web application with real-time chat, enabling seamless interactions between buyers and sellers.</td>
@@ -72,6 +77,14 @@
       <td>A travel-focused web application with map integration, allowing users to explore and mark destinations.</td>
       <td>MongoDB, Express.js, React.js, Node.js, Mapbox API, Material-UI</td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/VimukthiMK/Resolute_Redemption">Resolute Redemption</a></td>
+      <td>
+        A fast-paced, immersive first-person shooter game developed using Unity Engine. Dive into a dynamic combat environment with cinematic graphics, responsive controls, and thrilling enemy encounters.<br>
+      </td>
+      <td>Unity 2022.3.7f1, C#</td>
+    </tr>
+    <tr>
     <tr>
       <td><a href="https://github.com/VimukthiMK/DiaPredictor">DiaPredictor</a></td>
       <td>A machine learning web app that predicts diabetes using an SVM classifier, offering user-friendly visual analytics.</td>
