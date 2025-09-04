@@ -61,7 +61,7 @@
       <td>A mobile application designed to empower visually impaired individuals by providing real-time navigation assistance through voice guidance, live video calling, and AI-supported contextual prompts. The app combines device-native accessibility features with <b>Gemini AI</b> for intelligent interpretation of surroundings, enhancing autonomous navigation in both digital and physical environments.</td>
       <td>Flutter, Firebase, Node.js, Riverpod, WebRTC, Gemini AI </td>
     </tr>
-      <td><a href="#">Desert Shooter</a></td>
+      <td><a href="https://drive.google.com/file/d/1OXE56i2LpjT9b2Ycd7Wf8pQrRiEgFfei/view">Desert Shooter</a></td>
       <td>
         A stylized FPS combat game set in an Egyptian desert, built with Unreal Engine. Progress through levels by eliminating increasingly difficult enemies, enhanced by curated assets and smooth animations.<br>
       </td>
